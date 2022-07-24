@@ -1,0 +1,130 @@
+[2022-07-24 12:44:01Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Root': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO HostContext] Well known config file 'Credentials': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.credentials'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Root': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO HostContext] Well known config file 'Runner': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.runner'
+[2022-07-24 12:44:01Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2022-07-24 12:44:01Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19044.
+[2022-07-24 12:44:01Z INFO Listener] Version: 2.294.0
+[2022-07-24 12:44:01Z INFO Listener] Commit: 709bd6113d2fca3a89a0fef11913ce4efd7b8cc5
+[2022-07-24 12:44:01Z INFO Listener] Culture: es-AR
+[2022-07-24 12:44:01Z INFO Listener] UI Culture: es-ES
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Root': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO Listener] Validating directory permissions for: 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO CommandLineParser] Parse
+[2022-07-24 12:44:01Z INFO CommandLineParser] Parsing 1 args
+[2022-07-24 12:44:01Z INFO CommandLineParser] parsing argument
+[2022-07-24 12:44:01Z INFO CommandLineParser] HasArgs: False
+[2022-07-24 12:44:01Z INFO CommandLineParser] Adding Command: run
+[2022-07-24 12:44:01Z INFO Listener] Arguments parsed
+[2022-07-24 12:44:01Z INFO Runner] ExecuteCommand
+[2022-07-24 12:44:01Z INFO ConfigurationStore] currentAssemblyLocation: D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin\Runner.Listener.dll
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO ConfigurationStore] binPath: D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Root': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO ConfigurationStore] RootFolder: D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Root': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO HostContext] Well known config file 'Runner': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.runner'
+[2022-07-24 12:44:01Z INFO ConfigurationStore] ConfigFilePath: D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.runner
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Root': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO HostContext] Well known config file 'Credentials': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.credentials'
+[2022-07-24 12:44:01Z INFO ConfigurationStore] CredFilePath: D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.credentials
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Root': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.credentials_migrated'
+[2022-07-24 12:44:01Z INFO ConfigurationStore] MigratedCredFilePath: D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.credentials_migrated
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Root': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO HostContext] Well known config file 'Service': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.service'
+[2022-07-24 12:44:01Z INFO ConfigurationStore] ServiceConfigFilePath: D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.service
+[2022-07-24 12:44:01Z INFO CommandSettings] Flag 'help': 'False'
+[2022-07-24 12:44:01Z INFO CommandSettings] Flag 'version': 'False'
+[2022-07-24 12:44:01Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-07-24 12:44:01Z INFO CommandSettings] Flag 'check': 'False'
+[2022-07-24 12:44:01Z INFO CommandSettings] Command 'configure': 'False'
+[2022-07-24 12:44:01Z INFO CommandSettings] Command 'remove': 'False'
+[2022-07-24 12:44:01Z INFO CommandSettings] Command 'warmup': 'False'
+[2022-07-24 12:44:01Z INFO ConfigurationManager] LoadSettings
+[2022-07-24 12:44:01Z INFO ConfigurationStore] IsConfigured()
+[2022-07-24 12:44:01Z INFO ConfigurationStore] IsConfigured: True
+[2022-07-24 12:44:01Z INFO ConfigurationManager] Is configured: True
+[2022-07-24 12:44:01Z INFO ConfigurationStore] Read setting file: 281 chars
+[2022-07-24 12:44:01Z INFO ConfigurationManager] Settings Loaded
+[2022-07-24 12:44:01Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-07-24 12:44:01Z INFO ConfigurationStore] IsServiceConfigured: False
+[2022-07-24 12:44:01Z INFO CommandSettings] Command 'run': 'True'
+[2022-07-24 12:44:01Z INFO ConfigurationStore] IsConfigured()
+[2022-07-24 12:44:01Z INFO ConfigurationStore] IsConfigured: True
+[2022-07-24 12:44:01Z INFO ConfigurationManager] Is configured: True
+[2022-07-24 12:44:01Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2022-07-24 12:44:01Z INFO Runner] Set runner startup type - Manual
+[2022-07-24 12:44:01Z INFO CommandSettings] Flag 'once': 'False'
+[2022-07-24 12:44:01Z INFO CommandSettings] Flag 'once': 'False'
+[2022-07-24 12:44:01Z INFO Runner] RunAsync
+[2022-07-24 12:44:01Z INFO ConfigurationManager] LoadSettings
+[2022-07-24 12:44:01Z INFO ConfigurationStore] IsConfigured()
+[2022-07-24 12:44:01Z INFO ConfigurationStore] IsConfigured: True
+[2022-07-24 12:44:01Z INFO ConfigurationManager] Is configured: True
+[2022-07-24 12:44:01Z INFO ConfigurationManager] Settings Loaded
+[2022-07-24 12:44:01Z INFO MessageListener] {
+  "AgentId": 21,
+  "AgentName": "SERVERAK",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/jKZlzXxquCa0JegVlA1rifv55LdD71bRUriG7Hia3G0a1praZS",
+  "GitHubUrl": "https://github.com/kouvach",
+  "WorkFolder": "_work"
+}
+[2022-07-24 12:44:01Z INFO MessageListener] Loading Credentials
+[2022-07-24 12:44:01Z INFO ConfigurationStore] HasCredentials()
+[2022-07-24 12:44:01Z INFO ConfigurationStore] stored True
+[2022-07-24 12:44:01Z INFO CredentialManager] GetCredentialProvider
+[2022-07-24 12:44:01Z INFO CredentialManager] Creating type OAuth
+[2022-07-24 12:44:01Z INFO CredentialManager] Creating credential type: OAuth
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Bin': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\bin'
+[2022-07-24 12:44:01Z INFO HostContext] Well known directory 'Root': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner'
+[2022-07-24 12:44:01Z INFO HostContext] Well known config file 'RSACredentials': 'D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.credentials_rsaparams'
+[2022-07-24 12:44:01Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.credentials_rsaparams
+[2022-07-24 12:44:01Z INFO MessageListener] Attempt to create session.
+[2022-07-24 12:44:01Z INFO MessageListener] Connecting to the Runner Server...
+[2022-07-24 12:44:01Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-07-24 12:44:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-07-24 12:44:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-07-24 12:44:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-07-24 12:44:02Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-07-24 12:44:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-07-24 12:44:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-07-24 12:44:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-07-24 12:44:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-07-24 12:44:02Z INFO MessageListener] VssConnection created
+[2022-07-24 12:44:02Z INFO Terminal] WRITE LINE: 
+[2022-07-24 12:44:02Z INFO Terminal] WRITE LINE: 
+[2022-07-24 12:44:03Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: a6eb945c-88b8-42ab-8f82-f060f9c60425
+ActivityId: 571c5299-dd04-41cc-af8f-4583702c3e29
+X-TFS-Session: 3e9b3be4-3dd6-431c-9115-7729eaa59b2e
+X-VSS-E2EID: 2df80fd1-5ce7-4021-b433-da93b9b8cc44
+X-VSS-SenderDeploymentId: 7101e053-bd8e-689b-be8c-ce908c7f0053
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: FA800A5E530D49D7B81986E1AEA34D85 Ref B: BUE30EDGE0312 Ref C: 2022-07-24T12:44:02Z
+Date: Sun, 24 Jul 2022 12:44:02 GMT
+
+[2022-07-24 12:44:03Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.credentials_rsaparams
+[2022-07-24 12:44:03Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\Users\akouv\andres.kouvach\proy\github-actions-demo\actions-runner\.credentials_rsaparams
+[2022-07-24 12:44:03Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-07-24 12:44:03Z INFO MessageListener] Session created.
+[2022-07-24 12:44:03Z INFO Terminal] WRITE LINE: Current runner version: '2.294.0'
+[2022-07-24 12:44:03Z INFO Terminal] WRITE LINE: 2022-07-24 12:44:03Z: Listening for Jobs
+[2022-07-24 12:44:03Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2022-07-24 13:14:13Z INFO MessageListener] No message retrieved from session '7cfb34e7-842e-44c7-a113-cc892e1eb28f' within last 30 minutes.
