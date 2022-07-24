@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "SERVERAK",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/jKZlzXxquCa0JegVlA1rifv55LdD71bRUriG7Hia3G0a1praZS",
+  "gitHubUrl": "https://github.com/kouvach",
+  "workFolder": "_work"
+}
